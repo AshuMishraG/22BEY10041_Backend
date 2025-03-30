@@ -1,0 +1,71 @@
+# Go
+*.exe
+*.test
+*.out
+*.so
+*.a
+*.o
+*.h
+*.prof
+*.cover
+*.test.out
+*.test.log
+*.test.xml
+*.test.json
+*.test.yaml
+*.test.yml
+*.test.txt
+*.test.md
+*.test.html
+*.test.css
+*.test.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+bin/
+obj/
+dist/
+build/
+
+# Environment
+.env
+*.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Database
+*.sqlite3
+*.db
+*.dat
+
+# Coverage
+coverage/
+coverage.html
+coverage.out
+
+# Cache
+.cache/
+*.cache
+*.tmp
+
+# Test
+coverage/
+coverage.html
+coverage.out
+
+# Local storage
+uploads/
